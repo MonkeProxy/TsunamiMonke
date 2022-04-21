@@ -140,8 +140,8 @@
         "location": "/"
     },
     {
-         "title": "Couch 2048",
-        "image": "/games/images/couch2048.jpg",
-        "location": "/games/files/couch2048"
+         "title": "Sup3r M@rio 64",
+        "image": "/games/images/sm64.jpg",
+        "location": "/games/files/sm64"
     }    
 ]
