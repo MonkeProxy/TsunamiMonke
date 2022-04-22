@@ -143,5 +143,10 @@
          "title": "Sup3r M@rio 64",
         "image": "/games/images/sm64.jpg",
         "location": "/games/files/sm64"
-    }    
+    },
+    {
+         "title": "Burrito Bison Test",
+        "image": "/games/images/Bison.jpg",
+        "location": "/games/files/flash?swf=AngryBison.swf"
+    }        
 ]
