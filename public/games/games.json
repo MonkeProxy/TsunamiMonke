@@ -147,6 +147,11 @@
     {
          "title": "Burrito Bison Test",
         "image": "/games/images/Bison.jpg",
-        "location": "/games/files/flash?swf=AngryBison.swf"
+        "location": "/games/files/flash?swf=burritobison.swf"
+    },
+    {
+         "title": "BTD5 test",
+        "image": "/games/images/Bison.jpg",
+        "location": "/games/files/flash?swf=bloonstd5.swf"
     }        
 ]
